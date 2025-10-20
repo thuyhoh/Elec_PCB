@@ -1,0 +1,39 @@
+{
+  "uuid": "7a9776c6ab54705b99c498c4cd39352c",
+  "path": "Offline/New%20Project",
+  "name": "New Project",
+  "content": "",
+  "created_at": "2025-10-11 14:44:06",
+  "updated_at": "2025-10-11 14:44:31",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "fa80778c19b2014eed85f7aec3d12cf8",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "ee0c2d0008d55b9dfba6605501c6ce61",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ]
+      ],
+      "updateTime": 1760168671,
+      "createTime": 1760168647,
+      "histories": [],
+      "created_at": "2025-10-11 14:44:07",
+      "updated_at": "2025-10-11 14:44:31"
+    }
+  ],
+  "sort": [],
+  "title": "New Project",
+  "foldername": "New Project",
+  "schfilename": "New Project.json",
+  "schfilemtime": 1760168671830
+}

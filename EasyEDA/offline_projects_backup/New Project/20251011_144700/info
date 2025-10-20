@@ -1,0 +1,53 @@
+{
+  "uuid": "7a9776c6ab54705b99c498c4cd39352c",
+  "path": "Offline/New%20Project",
+  "name": "New Project",
+  "content": "",
+  "created_at": "2025-10-11 14:44:06",
+  "updated_at": "2025-10-11 14:47:00",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "fa80778c19b2014eed85f7aec3d12cf8",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "79c7620dad0ded5f746d5fc34c5164bb",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c2754a5dac404cb1b757213b56759c67": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "RP2040",
+          1,
+          "LQFN-56_L7.0-W7.0-P0.4-EP",
+          "U1",
+          {
+            "Manufacturer Part": "RP2040",
+            "Manufacturer": "Raspberry Pi(树莓派)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2040"
+          }
+        ]
+      ],
+      "updateTime": 1760168820,
+      "createTime": 1760168647,
+      "histories": [],
+      "created_at": "2025-10-11 14:44:07",
+      "updated_at": "2025-10-11 14:47:00"
+    }
+  ],
+  "sort": [],
+  "title": "New Project",
+  "foldername": "New Project",
+  "schfilename": "New Project.json",
+  "schfilemtime": 1760168820714
+}
