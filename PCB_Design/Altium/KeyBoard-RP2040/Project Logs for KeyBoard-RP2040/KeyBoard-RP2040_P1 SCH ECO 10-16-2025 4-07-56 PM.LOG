@@ -1,0 +1,3 @@
+Remove Pin=U2-20 From Net=QSPI_SD0
+Remove Pin=U2-21 From Net=QSPI_SCLK
+Remove Pin=U2-22 From Net=QSPI_SD3

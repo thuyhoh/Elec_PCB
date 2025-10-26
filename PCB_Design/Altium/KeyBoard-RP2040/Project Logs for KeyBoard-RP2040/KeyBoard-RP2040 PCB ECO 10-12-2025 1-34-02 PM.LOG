@@ -1,0 +1,11 @@
+Added Component: Designator=R?(SMD 0.566 0.54)
+Added Component: Designator=U?(RP2040)
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Net: Name=GND
+Added Pin To Net: NetName=res Pin=R?-1
+Added Pin To Net: NetName=res Pin=U?-7
+Added Net: Name=res
+Added Class: Name=KeyBoard-RP2040
+Added Class: Name=sheet2
+Added Room: Name=KeyBoard-RP2040
+Added Room: Name=sheet2
